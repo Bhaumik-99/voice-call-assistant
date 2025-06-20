@@ -22,9 +22,13 @@ This project implements an AI-powered inbound call agent . It uses OpenAI's new 
 ## Setup
 
 1. Clone the repository:
+   
+    ```
+   git clone https://github.com/Bhaumik-99/voice-call-assistant.git
+   cd voice-call-assistant
    ```
 
-   ```
+   
 
 2. Install dependencies:
    ```
